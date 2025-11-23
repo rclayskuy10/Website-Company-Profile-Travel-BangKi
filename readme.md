@@ -73,9 +73,11 @@ Website company profile profesional untuk **PT Travel BangKi Nusantara**, penyed
 
 ## 📞 Kontak
 
-- **WhatsApp**: +62 812-3456-7890
-- **Email**: info@travelbangki.com
-- **Alamat**: Jl. Lintas Sumatra No. 123, Medan
+*Note: Ganti dengan informasi kontak Anda sendiri*
+
+- **WhatsApp**: +62 8XX-XXXX-XXXX
+- **Email**: info@example.com
+- **Alamat**: Alamat Perusahaan Anda
 
 ## 🔍 Keywords & SEO
 
