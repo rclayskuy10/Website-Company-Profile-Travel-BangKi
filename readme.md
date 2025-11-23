@@ -7,7 +7,7 @@
 
 Website company profile profesional untuk **PT Travel BangKi Nusantara**, penyedia jasa transportasi lintas Sumatra terpercaya sejak 2015.
 
-**🌐 Live Demo:** [View Website](https://rclayskuy10.github.io/Website-Company-Profile-Travel-BangKi/)
+**🌐 Live Demo:** [View Website](https://website-company-profile-travel-bang.vercel.app/)
 
 > Template website modern untuk perusahaan travel dan transportasi dengan fitur lengkap dan desain responsif.
 
