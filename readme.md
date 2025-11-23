@@ -1,6 +1,15 @@
 # 🚌 Travel BangKi - Website Company Profile
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
+
 Website company profile profesional untuk **PT Travel BangKi Nusantara**, penyedia jasa transportasi lintas Sumatra terpercaya sejak 2015.
+
+**🌐 Live Demo:** [View Website](https://rclayskuy10.github.io/Website-Company-Profile-Travel-BangKi/)
+
+> Template website modern untuk perusahaan travel dan transportasi dengan fitur lengkap dan desain responsif.
 
 ## 🌟 Fitur Utama
 
@@ -68,10 +77,70 @@ Website company profile profesional untuk **PT Travel BangKi Nusantara**, penyed
 - **Email**: info@travelbangki.com
 - **Alamat**: Jl. Lintas Sumatra No. 123, Medan
 
+## 🔍 Keywords & SEO
+
+Website ini dioptimalkan untuk pencarian:
+- Travel Sumatra, Travel Lintas Sumatra, Transportasi Sumatra
+- Jasa Travel Medan, Travel Padang, Travel Pekanbaru
+- Sewa Bus Sumatra, Rental Mobil Travel Sumatra
+- Website Company Profile Travel, Template Website Travel
+- HTML CSS JavaScript Travel Website
+- Responsive Travel Website Template
+- Modern Travel Agency Website
+
+## 📊 Features for Developers
+
+- ✨ Clean & Semantic HTML5 code
+- 🎨 Modern CSS3 with custom properties
+- ⚡ Vanilla JavaScript (No frameworks)
+- 📱 Mobile-first responsive design
+- ♿ Accessibility friendly (ARIA labels)
+- 🚀 Fast loading & optimized performance
+- 🎭 Smooth animations & transitions
+- 📝 Well-documented code
+- 🔧 Easy to customize
+- 🌐 SEO optimized structure
+
+## 💖 Support Developer
+
+Jika template ini bermanfaat untuk Anda, dukung pengembangan lebih lanjut:
+
+[![Saweria](https://img.shields.io/badge/Saweria-Support-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/riski2000)
+
+**Dukungan Anda sangat berarti!** ☕
+
+Kunjungi: [https://saweria.co/riski2000](https://saweria.co/riski2000)
+
+## 📚 Resources & Credits
+
+- **Icons**: [Font Awesome](https://fontawesome.com/)
+- **Images**: [Unsplash](https://unsplash.com/), Various Indonesian sources
+- **Fonts**: System fonts for optimal performance
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📌 Project Status
+
+🟢 **Active Development** - Regular updates and improvements
+
+## 🏷️ Tags
+
+`travel-website` `company-profile` `html-css-javascript` `responsive-design` `travel-agency` `transportation` `sumatra` `indonesia` `web-template` `frontend` `vanilla-js` `modern-design` `business-website`
+
 ## 📄 License
 
 Copyright © 2025 PT Travel BangKi Nusantara. All rights reserved.
 
+This project is available for personal and commercial use. Attribution is appreciated but not required.
+
 ---
 
-**Dibuat dengan ❤️ untuk melayani perjalanan Anda di Sumatra**
+⭐ **Jangan lupa berikan star jika project ini membantu Anda!** ⭐
