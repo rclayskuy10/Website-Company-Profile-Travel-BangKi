@@ -1,31 +1,77 @@
-**"Buatkan website travel bernama Travel BangKi menggunakan HTML, CSS, dan JavaScript dengan tampilan elegan, modern, dan responsif.
-Gunakan desain clean dan premium dengan warna seperti navy, emas, putih, atau gradasi lembut. Terapkan spacing rapi, rounded corners, soft shadow, dan tipografi modern.
+# 🚌 Travel BangKi - Website Company Profile
 
-Tambahkan gambar langsung pada website menggunakan URL gambar bebas hak cipta (Unsplash/Pexels) agar tampil otomatis tanpa upload.
+Website company profile profesional untuk **PT Travel BangKi Nusantara**, penyedia jasa transportasi lintas Sumatra terpercaya sejak 2015.
 
-Website harus memiliki:
+## 🌟 Fitur Utama
 
-Hero section dengan gambar background full-width (pantai atau pegunungan dari Unsplash).
+- ✅ **Responsive Design** - Tampilan optimal di desktop, tablet, dan mobile
+- ✅ **Modern UI/UX** - Desain elegan dengan color scheme navy, gold, dan white
+- ✅ **Company Profile** - Informasi lengkap perusahaan dengan sertifikasi ISO 9001:2015
+- ✅ **Interactive Navigation** - Smooth scrolling dengan active link highlighting
+- ✅ **Destinations Showcase** - 6 rute destinasi utama di Sumatra
+- ✅ **Fleet Information** - 3 jenis armada (Avanza/Xenia, Hiace Commuter, Grand Max Box)
+- ✅ **Testimonials Carousel** - Auto-play slider dengan kontrol manual
+- ✅ **Booking Form** - Validasi real-time untuk email dan nomor telepon
+- ✅ **Payment Methods** - Informasi lengkap metode pembayaran
+- ✅ **Animated Statistics** - Counter animasi untuk data perusahaan
+- ✅ **Scroll Animations** - Intersection Observer API untuk efek scroll
+- ✅ **Mobile Menu** - Hamburger menu untuk perangkat mobile
 
-Section destinasi unggulan berisi kartu gambar (Bali, Lombok, Jepang, Paris, dll).
+## 🛠️ Teknologi
 
-Section transportasi yang menampilkan dua jenis layanan:
+- **HTML5** - Struktur semantik
+- **CSS3** - Custom properties, Grid, Flexbox, Animations
+- **JavaScript** - Vanilla JS untuk interaktivitas
+- **Font Awesome 6.4.0** - Icon library
 
-Transportasi Darat (misalnya mobil travel, bus, minivan) → sertakan gambar dari Unsplash.
+## 📋 Struktur Website
 
-Transportasi Laut (misalnya kapal, speedboat, ferry) → sertakan gambar dari Unsplash.
-Masing-masing dibuat dalam card yang elegan dan modern.
+1. **Hero Section** - Background Danau Toba dengan CTA buttons
+2. **Company Statistics** - 10 tahun pengalaman, 50K+ pelanggan, 150 armada, 25 rute
+3. **About Company** - Profil PT Travel BangKi Nusantara dengan sertifikasi
+4. **Why Choose Us** - 4 keunggulan utama (comfort, experience, safety, flexibility)
+5. **Destinations** - Medan, Padang, Pekanbaru, Jambi, Palembang, Lampung
+6. **Fleet** - Toyota Avanza/Xenia, Toyota Hiace Commuter, Daihatsu Grand Max Box
+7. **Testimonials** - 4 customer reviews dengan carousel
+8. **Booking Form** - Form pemesanan dengan validasi lengkap
+9. **Payment Info** - Bank transfer, kartu kredit, e-wallet, QRIS
+10. **Footer** - Quick links dan services
 
-Section paket wisata / pricing dengan gambar relevan.
+## 🎨 Design Features
 
-Section ‘Kenapa Memilih Kami’ dengan ikon/gambar dari URL bebas pakai.
+- **Color Palette**:
+  - Primary Navy: `#1a2332`
+  - Accent Gold: `#d4af37`
+  - Background: `#f8f9fa`
+  - White: `#ffffff`
 
-Carousel testimoni menggunakan JavaScript, dengan foto profil (URL).
+- **Typography**: System fonts stack untuk performa optimal
+- **Animations**: Smooth fade-in, slide-in effects menggunakan Intersection Observer
+- **Responsive Breakpoints**: 968px, 768px, 480px
 
-Form booking/kontak dengan validasi dasar.
+## 📱 Browser Support
 
-Navbar responsif dengan smooth scrolling.
+- ✅ Chrome (Latest)
+- ✅ Firefox (Latest)
+- ✅ Safari (Latest)
+- ✅ Edge (Latest)
 
-Animasi halus saat scroll (CSS / JS).
+## 🚀 Cara Penggunaan
 
-Gunakan HTML5 semantik, Flexbox/Grid, dan JavaScript untuk interaksi seperti menu toggle, slider testimoni, dan animasi scroll. Pastikan tampilan terlihat mewah, modern, dan mencerminkan brand travel premium Travel BangKi."**
+1. Clone repository ini
+2. Buka file `index.html` di browser
+3. Atau deploy ke hosting pilihan Anda (GitHub Pages, Netlify, Vercel, dll)
+
+## 📞 Kontak
+
+- **WhatsApp**: +62 812-3456-7890
+- **Email**: info@travelbangki.com
+- **Alamat**: Jl. Lintas Sumatra No. 123, Medan
+
+## 📄 License
+
+Copyright © 2025 PT Travel BangKi Nusantara. All rights reserved.
+
+---
+
+**Dibuat dengan ❤️ untuk melayani perjalanan Anda di Sumatra**
