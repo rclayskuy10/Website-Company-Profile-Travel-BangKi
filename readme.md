@@ -1,5 +1,8 @@
 # 🚌 Travel BangKi - Website Company Profile
 
+[![Saweria](https://img.shields.io/badge/💖_Support_via-Saweria-orange?style=for-the-badge)](https://saweria.co/riski2000)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -139,9 +142,11 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
-Copyright © 2025 PT Travel BangKi Nusantara. All rights reserved.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This project is available for personal and commercial use. Attribution is appreciated but not required.
+Copyright © 2025 Travel BangKi - Website Company Profile
+
+**MIT License** - Free to use for personal and commercial projects. Attribution is appreciated but not required.
 
 ---
 
